@@ -8,7 +8,7 @@
   <div class="container">
     <img class="left" src="/assets/adeil.jpg" style="width:100%;max-width:150px">
     <p>
-    Sou professor de Física do Ensino Médio na Rede Públca Estadual do Ceará. Sou mestre em Ensino de Física e atualmente busco formas de inserir linguagens de programação com Julia e Python em minhas aulas.
+    Sou professor de Física do Ensino Médio na Rede Públca Estadual do Ceará. Sou mestre em Ensino de Física e atualmente busco formas de inserir linguagens de programação como Julia e Python em minhas aulas.
     </p>
     <p>
     Evoluindo sempre.
@@ -24,7 +24,7 @@
 Rua: Monsenhor Furtado, 2327 \\
 Bairro: Bela Vista\\
 Cidade/UF: Fortaleza/CE \\
-CEP: 60441-750
+CEP: 60441-750 \\
 Telefone: +55 85 3101-2991\\
 
 ## Contato
