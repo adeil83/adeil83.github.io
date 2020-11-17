@@ -32,6 +32,4 @@
 
 [ARAÚJO, F. A. G.; OLIVEIRA, M. M. ; NOBRE, E.F. ; Pinheiro, A.G ; Cunha, M.S. . O ESTUDO DE DINÂMICA DOS FLUIDOS COM O APLICATIVO WIND TUNNEL. Revista do Professor de Física, v. 1, p. 25-36, 2017.](https://periodicos.unb.br/index.php/rpf/article/view/7070)
 
-## Textos em jornais de notícias/revistas
-
-[ARAÚJO, F. A. G.. Experiência com Fotografia Artesanal nas Aulas de Física. REVISTA FOTO INVERSA, A ARTE DA FOTOGRAFIA PINHOLE, Internet, , v. 06, p. 20 - 21, 27 abr. 2013.]( http://issuu.com/fotoinversa/docs/fotoinversa06)
+[ARAÚJO, F. A. G.; OLIVEIRA, M. M. ; NOBRE, E.F. ; Pinheiro, A.G ; Cunha, M.S. . O ESTUDO DE DINÂMICA DOS FLUIDOS COM O APLICATIVO WIND TUNNEL. Revista do Professor de Física, v. 1, p. 25-36, 2017.](https://periodicos.unb.br/index.php/rpf/article/view/7070)
