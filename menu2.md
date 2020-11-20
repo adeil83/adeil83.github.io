@@ -11,7 +11,7 @@
 
 [ARAÚJO, F. A. G.; OLIVEIRA, M. M. . Alunos de escola pública constroem foguetes. 2015.](https://www.youtube.com/watch?v=XFWtl7e1-do)
 
-[ARAÚJO, F. A. G.; OLIVEIRA, M. M. . Escola Jociê Caminha vence projeto de ciência com foguete e é destaque no ABCeTV. 2015.ARAÚJO, F. A. G.; OLIVEIRA, M. M. . Escola Jociê Caminha vence projeto de ciência com foguete e é destaque no ABCeTV. 2015.](https://www.youtube.com/watch?v=rWw8VMFBcUk)
+[ARAÚJO, F. A. G.; OLIVEIRA, M. M. . Escola Jociê Caminha vence projeto de ciência com foguete e é destaque no ABCeTV. 2015.](https://www.youtube.com/watch?v=rWw8VMFBcUk)
 
 
 [ARAÚJO, F. A. G.. COMO TRANSFORMAR A TECNOLOGIA DE ADVERSÁRIA EM ALIADA NA SALA DE AULA. 2015.](https://www20.opovo.com.br/app/opovo/cotidiano/2015/02/23/noticiasjornalcotidiano,3396678/como-transformar-a-tecnologia-de-adversaria-em-aliada-na-sala-de-aula.shtml)
