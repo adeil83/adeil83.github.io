@@ -1,4 +1,4 @@
-@def title = "Franklin Example"
+@def title = "Adeil Araújo"
 @def tags = ["syntax", "code"]
 
 ## Sobre
