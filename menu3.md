@@ -2,6 +2,10 @@
 
 ## Citações
 
+Mariana Guedes Bartolo (2020)\\
+[Recursos tecnológicos e ensino de língua inglesa: uma pesquisa-ação no contexto do estágio supervisionado](https://revistas.ufob.edu.br/index.php/pqe/article/view/720/967)\\
+_Revista Pesquisa e Ensino_
+
 Giulio Domenico Bordin (2020)\\
 [Potencialidades de uso do software de videoanálise Tracker no Ensino de Física](https://repositorio.utfpr.edu.br/jspui/bitstream/1/5124/2/videoanalisetrackerensinofisica.pdf)\\
 _Dissertação de mestrado_
