@@ -39,3 +39,8 @@ ARAÚJO, F. A. G.; OLIVEIRA, M. M. ; NOBRE, E.F. ; Pinheiro, A.G ; Cunha, M.S. .
 Adeil Araújo e Meirivâni Oliveira, [Julia com Física](https://juliacomfisica.github.io/menu2/).
 
 Adeil Araújo e Meirivâni Oliveira, [Intervalo Ciência](https://intervalociencia.blogspot.com/).
+
+## Youtube
+
+Adeil Araújo, [Adeil Araújo](https://www.youtube.com/@AdeilAraujo).
+
