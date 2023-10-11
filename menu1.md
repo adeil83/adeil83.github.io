@@ -33,3 +33,8 @@ ARAÚJO, F. A. G.; OLIVEIRA, M. M. ; NOBRE, E. F. . [Science Interval Project: W
 ARAÚJO, F. A. G.; OLIVEIRA, M. M. ; NOBRE, E.F. ; Pinheiro, A.G ; Cunha, M.S. .[A VIDEOANÁLISE DO MOVIMENTO DE UM FOGUETE DE PALITO DE FÓSFORO](https://periodicos.unb.br/index.php/rpf/article/view/7073). Revista do Professor de Física, v. 1, p. 68-80, 2017.
 
 ARAÚJO, F. A. G.; OLIVEIRA, M. M. ; NOBRE, E.F. ; Pinheiro, A.G ; Cunha, M.S. . [O ESTUDO DE DINÂMICA DOS FLUIDOS COM O APLICATIVO WIND TUNNEL](https://periodicos.unb.br/index.php/rpf/article/view/7070). Revista do Professor de Física, v. 1, p. 25-36, 2017.
+
+## Blogs
+
+Adeil Araújo e Meirivâni Oliveira, [Julia com Física](https://juliacomfisica.github.io/menu2/).
+Adeil Araújo e Meirivâni Oliveira, [Intervalo Ciência](https://intervalociencia.blogspot.com/).
