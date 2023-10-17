@@ -16,4 +16,4 @@
 
 [ARAÚJO, F. A. G.. COMO TRANSFORMAR A TECNOLOGIA DE ADVERSÁRIA EM ALIADA NA SALA DE AULA. 2015.](https://www20.opovo.com.br/app/opovo/cotidiano/2015/02/23/noticiasjornalcotidiano,3396678/como-transformar-a-tecnologia-de-adversaria-em-aliada-na-sala-de-aula.shtml)
 
-[ARAÚJO, F. A. G.. FOTO INVERSA: A ARTE DA FOTOGRAFIA PINHOLE. ACONTECE p.21-22. 2012.](https://drive.google.com/file/d/1Krs-VsnsuxwcDmU2qlqqpvEvAllwzcb9/view?usp=sharing)
+[ARAÚJO, F. A. G.. FOTO INVERSA: A ARTE DA FOTOGRAFIA PINHOLE. ACONTECE. p.21-22. 2012.](https://drive.google.com/file/d/1Krs-VsnsuxwcDmU2qlqqpvEvAllwzcb9/view?usp=sharing)
