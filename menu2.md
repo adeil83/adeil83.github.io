@@ -14,6 +14,6 @@
 [ARAÚJO, F. A. G.; OLIVEIRA, M. M. . Escola Jociê Caminha vence projeto de ciência com foguete e é destaque no ABCeTV. 2015.](https://www.youtube.com/watch?v=rWw8VMFBcUk)
 
 
-[ARAÚJO, F. A. G. COMO TRANSFORMAR A TECNOLOGIA DE ADVERSÁRIA EM ALIADA NA SALA DE AULA. 2015.](https://www20.opovo.com.br/app/opovo/cotidiano/2015/02/23/noticiasjornalcotidiano,3396678/como-transformar-a-tecnologia-de-adversaria-em-aliada-na-sala-de-aula.shtml)
+[ARAÚJO, F. A. G. Como transformar a tecnologia de adversária em aliada na sala de aula. 2015.](https://www20.opovo.com.br/app/opovo/cotidiano/2015/02/23/noticiasjornalcotidiano,3396678/como-transformar-a-tecnologia-de-adversaria-em-aliada-na-sala-de-aula.shtml)
 
-[ARAÚJO, F. A. G. FOTO INVERSA: A ARTE DA FOTOGRAFIA PINHOLE. ACONTECE. p.20-21. 2012.](https://drive.google.com/file/d/1Krs-VsnsuxwcDmU2qlqqpvEvAllwzcb9/view?usp=sharing)
+[ARAÚJO, F. A. G. Foto inversa: a arte da fotografia pinhole. Acontece. p.20-21. 2012.](https://drive.google.com/file/d/1Krs-VsnsuxwcDmU2qlqqpvEvAllwzcb9/view?usp=sharing)
