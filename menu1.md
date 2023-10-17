@@ -43,5 +43,6 @@ Adeil Araújo e Meirivâni Oliveira, [Intervalo Ciência](https://intervalocienc
 ## Youtube
 
 Adeil Araújo, [Adeil Araújo](https://www.youtube.com/@AdeilAraujo).
+
 Adeil Araújo, [Infância de Maria](https://www.youtube.com/@infanciademaria).
 
