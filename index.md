@@ -8,7 +8,7 @@
   <div class="container">
     <img class="left" src="/assets/adeil.jpg" style="width:100%;max-width:150px">
     <p>
-    Sou professor de Física do Ensino Médio na Rede Públca Estadual do Ceará. Sou mestre em Ensino de Física e atualmente busco formas de inserir linguagens de programação como Julia e Python em minhas aulas.
+    Sou professor de Física do Ensino Médio na Rede Públca Estadual do Ceará. Sou mestre em Ensino de Física e atualmente estudo formas de inserir a inteligência artificial (IA) e linguagens de programação como Julia e Python em sala de aula.
     </p>
     <p>
     Evoluindo sempre.
@@ -20,12 +20,12 @@
 
 ## Endereço Profissional
 
-**EEMTI Estado do Amazonas** \\
-Rua: Monsenhor Furtado, 2327 \\
-Bairro: Bela Vista\\
+**Formace - Centro de formação e desenvolvimento para profissionais da educação** \\
+Rua: Porto Velho, 401 \\
+Bairro: João XXIII\\
 Cidade/UF: Fortaleza/CE \\
-CEP: 60441-750 \\
-Telefone: +55 85 3101-2991\\
+CEP: 60525-571 \\
+Telefone: +55 85 3290-0315\\
 
 ## Contato
 
