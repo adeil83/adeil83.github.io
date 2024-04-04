@@ -8,7 +8,7 @@
   <div class="container">
     <img class="left" src="/assets/adeil.jpg" style="width:100%;max-width:150px">
     <p>
-    Sou professor de Física do Ensino Médio na Rede Públca Estadual do Ceará. Sou mestre em Ensino de Física e atualmente estudo formas de inserir a inteligência artificial (IA) e linguagens de programação como Julia e Python em sala de aula.
+    Sou professor de Física do Ensino Médio na Rede Públca Estadual do Ceará. Sou mestre em Ensino de Física e atualmente estudo formas de inserir a inteligência artificial (IA) e linguagens de programação como Julia, Python e R em sala de aula.
     </p>
     <p>
      Aprendendo sempre.
