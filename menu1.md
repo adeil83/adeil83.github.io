@@ -40,6 +40,8 @@ Adeil Araújo e Meirivâni Oliveira, [Julia com Física](https://juliacomfisica.
 
 Adeil Araújo e Meirivâni Oliveira, [Intervalo Ciência](https://intervalociencia.blogspot.com/).
 
+Adeil Araújo, [R em sala de aula](https://remsaladeaula.github.io/site_pessoal/).
+
 ## Youtube
 
 Adeil Araújo, [Adeil Araújo](https://www.youtube.com/@AdeilAraujo).
