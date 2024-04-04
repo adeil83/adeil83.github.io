@@ -11,7 +11,7 @@
     Sou professor de Física do Ensino Médio na Rede Públca Estadual do Ceará. Sou mestre em Ensino de Física e atualmente estudo formas de inserir a inteligência artificial (IA) e linguagens de programação como Julia, Python e R em sala de aula.
     </p>
     <p>
-     Aprendendo sempre.
+     Aprendendo sempre. **Novo blog!** [R em sala de aula](https://remsaladeaula.github.io/site_pessoal/).
     </p>
     <div style="clear: both"></div>      
   </div>
