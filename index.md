@@ -18,7 +18,7 @@
 </div>
 ~~~
 
-##**Novo blog!** [R em sala de aula](https://remsaladeaula.github.io/site_pessoal/).
+**Novo blog!** [R em sala de aula](https://remsaladeaula.github.io/site_pessoal/).
 
 ## Endereço Profissional
 
