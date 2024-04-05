@@ -18,7 +18,7 @@
 </div>
 ~~~
 
-**Novo blog!** [R em sala de aula](https://remsaladeaula.github.io/site_pessoal/) |[Julia com Física](https://juliacomfisica.github.io/menu2/)
+**Novo blog!** [R em sala de aula](https://remsaladeaula.github.io/site_pessoal/) |      [Julia com Física](https://juliacomfisica.github.io/menu2/)
 
 ## Endereço Profissional
 
