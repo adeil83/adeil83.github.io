@@ -44,11 +44,11 @@ _Dissertação de mestrado_
 
 Meirivâni Meneses de Oliveira (2019)\\
 [Ensino de funções por meio da videoanálise: Um contributo da Engenharia Didática](http://www.repositorio.ufc.br/handle/riufc/49494)\\
-_Dissertação de mestrado_
+_Dissertação de mestrado - ENCIMA-UFC_
 
 Meirivâni Meneses de Oliveira (2019)\\
 [SMARTMÁTICA: A matemática do dia a dia através da videoanálise](http://www.repositorio.ufc.br/handle/riufc/49494)\\
-_Produto educacional relacionado à sua dissertação de mestrado_
+_Produto educacional relacionado à sua dissertação de mestrado - ENCIMA-UFC_
 
 Jiří Pospíšil, Helena Pospíšilová, Ludmila Trochtová (2018)\\
 [Katalog volnočasových aktivit
