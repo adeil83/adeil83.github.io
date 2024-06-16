@@ -4,7 +4,7 @@
 
 F. S. Almeida, R. M. Ribeiro, V. A. Scalco, M. Fossati, M. Ordenes (2020)\\
 [ANÁLISE DO USO DE APLICATIVO VIRTUAL PARA ESTUDO DA VENTILAÇÃO NATURAL EM AMBIENTES INTERNOS](https://eventos.antac.org.br/index.php/entac/article/view/820?articlesBySimilarityPage=5) \\
-_ XVIII ENCONTRO NACIONAL DE TECNOLOGIA DO AMBIENTE CONSTRUÍDO _
+_XVIII ENCONTRO NACIONAL DE TECNOLOGIA DO AMBIENTE CONSTRUÍDO_
 
 Mariana Guedes Bartolo (2020)\\
 [Recursos tecnológicos e ensino de língua inglesa: uma pesquisa-ação no contexto do estágio supervisionado](https://revistas.ufob.edu.br/index.php/pqe/article/view/720/967)\\
