@@ -50,5 +50,5 @@ verze 4.0.0: Nástroj pro výzkum volného času](https://www.researchgate.net/p
 _Livro_
 
  Patrizia Barbera e Juliane Rebstock - [UNTERRICHT 2.0](https://unterrichtvonmorgen.wordpress.com/category/tools/)\\
- [Incluiram um vídeo meu na categoria "Ferramentas", porém não citaram a minha autoria. P.S: Tudo bem! Feliz do mesmo jeito.](Video: https://www.youtube.com/watch?v=CaLR4bUL9LM)
 _Seminário no qual estudantes da Universidade de Konstanz lidam com as oportunidades e riscos das formas digitais de aprendizagem e os discutem de forma crítica e aberta -  Universität Konstanz (Alemanha)_
+ _Incluiram um vídeo meu na categoria "Ferramentas", porém não citaram a minha autoria.Busque na página por "Video: https://www.youtube.com/watch?v=CaLR4bUL9LM". P.S: Tudo bem! Feliz do mesmo jeito._
