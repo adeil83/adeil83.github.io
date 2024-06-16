@@ -2,14 +2,13 @@
 
 ## Citações
 
-Maria Isabel Pedrosa Custódio, Fernando da Silva Almeida, Roseana Martins Ribeiro, Ricardo César Rodrigues, JULIANA OLIVEIRA BATISTA (2022) \\ [ESTUDO QUALITATIVO DA VENTILAÇÃO NATURAL EM AMBIENTES INTERNOS: UMA ANÁLISE COMPARATIVA DO APLICATIVO DE SMARTPHONE WINDTUNNEL CFD E CFD (ANSYS)] \\(https://www.even3.com.br/anais/encac2021/337164-estudo-qualitativo-da-ventilacao-natural-em-ambientes-internos--uma-analise-comparativa-do-aplicativo-de-smartpho/)\\
+Maria Isabel Pedrosa Custódio, Fernando da Silva Almeida, Roseana Martins Ribeiro, Ricardo César Rodrigues, JULIANA OLIVEIRA BATISTA (2022) \\ [ESTUDO QUALITATIVO DA VENTILAÇÃO NATURAL EM AMBIENTES INTERNOS: UMA ANÁLISE COMPARATIVA DO APLICATIVO DE SMARTPHONE WINDTUNNEL CFD E CFD (ANSYS)](https://www.even3.com.br/anais/encac2021/337164-estudo-qualitativo-da-ventilacao-natural-em-ambientes-internos--uma-analise-comparativa-do-aplicativo-de-smartpho/)\\
 _Anais do XVI Encontro Nacional de Conforto no Ambiente Construído/ XII Encontro Latino-Americano de Conforto no Ambiente Construído_
 
 Giulio Domenico Bordin, Igor Henrique França, Arandi Ginane Bezerra Junior (2022) \\ [Desenvolvimento e utilização de um aplicativo móvel brasileiro para videoanálise: “Videoanalisando”](https://www.scielo.br/j/rbef/a/dDYbdVqc3JZVPZzSkJbDsRq/#)\\
 _Revista Brasileira de Ensino de Física_
 
-Igor Lindemberg Ventura Gonçalves, Noelia Souza Santos \\
-[O uso do aplicativo Anki no estudo da termodinâmica no ensino superior: um relato de experiência](https://www.researchgate.net/publication/357232834_O_O_uso_do_aplicativo_Anki_no_estudo_da_termodinamica_no_ensino_superior_um_relato_de_experiencia)\\
+Igor Lindemberg Ventura Gonçalves, Noelia Souza Santos (2021)\\ [O uso do aplicativo Anki no estudo da termodinâmica no ensino superior: um relato de experiência](https://www.researchgate.net/publication/357232834_O_O_uso_do_aplicativo_Anki_no_estudo_da_termodinamica_no_ensino_superior_um_relato_de_experiencia)\\
 _Revista Tuiuti: Ciência e Cultura_
 
 F. S. Almeida, R. M. Ribeiro, V. A. Scalco, M. Fossati, M. Ordenes (2020)\\
