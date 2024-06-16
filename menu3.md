@@ -3,7 +3,7 @@
 ## Citações
 
 F. S. Almeida, R. M. Ribeiro, V. A. Scalco, M. Fossati, M. Ordenes (2020)\\
-[ANÁLISE DO USO DE APLICATIVO VIRTUAL PARA ESTUDO DA VENTILAÇÃO NATURAL EM AMBIENTES INTERNOS](https://eventos.antac.org.br/index.php/entac/article/view/820?articlesBySimilarityPage=5)
+[ANÁLISE DO USO DE APLICATIVO VIRTUAL PARA ESTUDO DA VENTILAÇÃO NATURAL EM AMBIENTES INTERNOS](https://eventos.antac.org.br/index.php/entac/article/view/820?articlesBySimilarityPage=5) \\
 _ XVIII ENCONTRO NACIONAL DE TECNOLOGIA DO AMBIENTE CONSTRUÍDO _
 
 Mariana Guedes Bartolo (2020)\\
