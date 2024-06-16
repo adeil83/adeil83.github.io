@@ -30,4 +30,4 @@ Telefone: +55 85 3290-0315\\
 ## Contato
 
 E-mail: adeil@prof.ce.gov.br\\
-Twitter-X: @chicoadeil\\
+X: @chicoadeil\\
