@@ -9,6 +9,9 @@ F. S. Almeida, R. M. Ribeiro, V. A. Scalco, M. Fossati, M. Ordenes (2020)\\
 [ANÁLISE DO USO DE APLICATIVO VIRTUAL PARA ESTUDO DA VENTILAÇÃO NATURAL EM AMBIENTES INTERNOS](https://eventos.antac.org.br/index.php/entac/article/view/820?articlesBySimilarityPage=5) \\
 _XVIII ENCONTRO NACIONAL DE TECNOLOGIA DO AMBIENTE CONSTRUÍDO_
 
+PEDRO MATEUS REIS DOS REIS (2020)\\ [ATIVIDADES COM SMARTPHONES PARA O ENSINO DE FÍSICA: UMA PROPOSTA PARA O ENSINO DE MOVIMENTO UNIFORME E QUEDA LIVRE](https://www1.fisica.org.br/mnpef/sites/default/files/dissertacaoarquivo/polo-37-dissertacao-pedro.pdf)\\
+_Dissertação de Mestrado - MNPEF (Polo 37)_
+
 Mariana Guedes Bartolo (2020)\\
 [Recursos tecnológicos e ensino de língua inglesa: uma pesquisa-ação no contexto do estágio supervisionado](https://revistas.ufob.edu.br/index.php/pqe/article/view/720/967)\\
 _Revista Pesquisa e Ensino_
