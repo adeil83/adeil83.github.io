@@ -48,3 +48,7 @@ Jiří Pospíšil, Helena Pospíšilová, Ludmila Trochtová (2018)\\
 [Katalog volnočasových aktivit
 verze 4.0.0: Nástroj pro výzkum volného času](https://www.researchgate.net/profile/Jiri_Pospisil4/publication/332845796_Katalog_volnocasovych_aktivit_verze_400/links/5e9f8c1f4585150839f3fd3a/Katalog-volnocasovych-aktivit-verze-400.pdf) \\
 _Livro_
+
+ Patrizia Barbera e Juliane Rebstock - [UNTERRICHT 2.0](https://unterrichtvonmorgen.wordpress.com/category/tools/)\\
+ [Incluiram um vídeo meu na categoria "Ferramentas", porém não citaram a minha autoria. P.S: Tudo bem! Feliz do mesmo jeito.](Video: https://www.youtube.com/watch?v=CaLR4bUL9LM)
+_Seminário no qual estudantes da Universidade de Konstanz lidam com as oportunidades e riscos das formas digitais de aprendizagem e os discutem de forma crítica e aberta -  Universität Konstanz (Alemanha)_
