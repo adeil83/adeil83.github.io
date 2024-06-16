@@ -36,7 +36,7 @@ _Dissertação de mestrado_
 
 Antônio Vilemar Bezerra Lima (2019)\\
 [A Hidrodinâmica para o Ensino Médio na perspectiva da aprendizagem significativa](http://www.repositorio.ufc.br/bitstream/riufc/49130/8/2019_dis_avblima.pdf)\\
-_Dissertação de mestrado_
+_Dissertação de mestrado - ENCIMA-UFC_
 
 Renato Lobo de Castro (2019)\\
 [Uma Proposta de sequência didática para o Ensino de cinemática com o auxílio de ferramentas computacionais e métodos Ativos](http://www.repositorio.ufc.br/bitstream/riufc/49125/3/2019_dis_rlcastro.pdf)\\
