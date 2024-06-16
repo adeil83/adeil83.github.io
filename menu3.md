@@ -40,7 +40,7 @@ _Dissertação de mestrado - ENCIMA-UFC_
 
 Renato Lobo de Castro (2019)\\
 [Uma Proposta de sequência didática para o Ensino de cinemática com o auxílio de ferramentas computacionais e métodos Ativos](http://www.repositorio.ufc.br/bitstream/riufc/49125/3/2019_dis_rlcastro.pdf)\\
-_Dissertação de mestrado_
+_Dissertação de mestrado - MNPEF-UFC_
 
 Meirivâni Meneses de Oliveira (2019)\\
 [Ensino de funções por meio da videoanálise: Um contributo da Engenharia Didática](http://www.repositorio.ufc.br/handle/riufc/49494)\\
