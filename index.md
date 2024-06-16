@@ -20,10 +20,6 @@
 
 **Novo livro!** [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica/)  \\
 
-**Novo site!** [R em sala de aula](https://remsaladeaula.github.io/site_pessoal/)   \\ 
-
-**Site de Julia com Física!**[Julia com Física](https://juliacomfisica.github.io/menu2/) \\
-
 **Formace - Centro de formação e desenvolvimento para profissionais da educação** \\
 Rua: Porto Velho, 401 \\
 Bairro: João XXIII\\
