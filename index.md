@@ -18,7 +18,7 @@
 </div>
 ~~~
 
-**Livro novo!** Adeil Araújo e Meirivâni Oliveira, [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica/)  \\
+**Livro novo!** [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica/)  \\
 
 **Site novo!** [R em sala de aula](https://remsaladeaula.github.io/site_pessoal/)   \\ 
 
