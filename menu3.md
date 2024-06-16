@@ -2,7 +2,7 @@
 
 ## Citações
 
-Giulio Domenico Bordin, Igor Henrique França, Arandi Ginane Bezerra Junior (2022) \\ [Desenvolvimento e utilização de um aplicativo móvel brasileiro para videoanálise: “Videoanalisando”](https://www.scielo.br/j/rbef/a/dDYbdVqc3JZVPZzSkJbDsRq/#)
+Giulio Domenico Bordin, Igor Henrique França, Arandi Ginane Bezerra Junior (2022) \\ [Desenvolvimento e utilização de um aplicativo móvel brasileiro para videoanálise: “Videoanalisando”](https://www.scielo.br/j/rbef/a/dDYbdVqc3JZVPZzSkJbDsRq/#)\\
 _Revista Brasileira de Ensino de Física_
 
 F. S. Almeida, R. M. Ribeiro, V. A. Scalco, M. Fossati, M. Ordenes (2020)\\
