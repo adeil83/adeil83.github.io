@@ -24,7 +24,7 @@ _Revista Pesquisa e Ensino_
 
 Giulio Domenico Bordin (2020)\\
 [Potencialidades de uso do software de videoanálise Tracker no Ensino de Física](https://repositorio.utfpr.edu.br/jspui/bitstream/1/5124/2/videoanalisetrackerensinofisica.pdf)\\
-_Dissertação de mestrado_
+_Dissertação de mestrado - UTFPR_
 
 Fernando Gagno Júnior, Jardel da Costa Brozeguini (2020)\\
 [Análise de fenômenos físicos em vídeos: Uma proposta de Ensino associada ao uso de _smartphones_ em sala de aula](https://revistas.ufob.edu.br/index.php/pqe/article/view/694/945)\\
