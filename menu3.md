@@ -32,7 +32,7 @@ _Revista Pesquisa e Ensino_
 
 Fernando Gagno Júnior (2020)\\
 [Aprendizagem ativa associada ao uso de _smartphones_ no contexto de sala de aula: Uma proposta de atividades investigativas para o Ensino da cinemática no ${1}^{0}$ ano do Ensino Médio](https://ppgefis.cariacica.ifes.edu.br/images/stories/MNPEF_Disserta%C3%A7%C3%A3o_de_Mestrado_Profissional_Fernando_Gagno_Turma_2017.pdf)\\
-_Dissertação de mestrado_
+_Dissertação de mestrado - MNPEF-UFES_
 
 Antônio Vilemar Bezerra Lima (2019)\\
 [A Hidrodinâmica para o Ensino Médio na perspectiva da aprendizagem significativa](http://www.repositorio.ufc.br/bitstream/riufc/49130/8/2019_dis_avblima.pdf)\\
