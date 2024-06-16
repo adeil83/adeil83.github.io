@@ -2,6 +2,9 @@
 
 ## Citações
 
+Giulio Domenico Bordin, Igor Henrique França, Arandi Ginane Bezerra Junior (2022) \\ [Desenvolvimento e utilização de um aplicativo móvel brasileiro para videoanálise: “Videoanalisando”](https://www.scielo.br/j/rbef/a/dDYbdVqc3JZVPZzSkJbDsRq/#)
+_Revista Brasileira de Ensino de Física_
+
 F. S. Almeida, R. M. Ribeiro, V. A. Scalco, M. Fossati, M. Ordenes (2020)\\
 [ANÁLISE DO USO DE APLICATIVO VIRTUAL PARA ESTUDO DA VENTILAÇÃO NATURAL EM AMBIENTES INTERNOS](https://eventos.antac.org.br/index.php/entac/article/view/820?articlesBySimilarityPage=5) \\
 _XVIII ENCONTRO NACIONAL DE TECNOLOGIA DO AMBIENTE CONSTRUÍDO_
