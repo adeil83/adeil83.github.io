@@ -11,6 +11,8 @@
 
 ## Livros
 
+Adeil Araújo e Meirivâni Oliveira, [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica/), LF Editorial, junho de 2024. 110p.
+
 Adeil Araújo e Meirivâni Oliveira, [Julia com Física: Uma introdução](https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2023/09/Ebook-02-Julia-com-Fisica.pdf), Seduc - CE, Setembro de 2023. 114p.
 
 ARAÚJO, F. A. G.; PINHEIRO, A. G. ; CUNHA, M. S. . [Física em Movimento: Atividades com Smartphones e Tablets](https://www.researchgate.net/publication/325370876_Fisica_em_Movimento_Atividades_com_Smartphones_e_Tablets). 1. ed. Quixadá: PRODUTO EDUCACIONAL - MNPEF, 2017. 57p. 
