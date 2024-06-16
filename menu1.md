@@ -50,3 +50,5 @@ Adeil Araújo, [Adeil Araújo](https://www.youtube.com/@AdeilAraujo).
 
 Adeil Araújo, [Infância de Maria](https://www.youtube.com/@infanciademaria).
 
+Adeil Araújo, [Física com smartphones e tablets](https://www.youtube.com/playlist?list=PLFh8oY38IoiGgp3z29cBREHS5sWzDJNC1).
+
