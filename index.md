@@ -18,7 +18,7 @@
 </div>
 ~~~
 
-**Novo livro!** [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica/)  \\
+**Novo!** [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica/)  \\
 
 **Formace - Centro de formação e desenvolvimento para profissionais da educação** \\
 Rua: Porto Velho, 401 \\
