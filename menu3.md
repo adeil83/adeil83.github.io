@@ -2,6 +2,10 @@
 
 ## Citações
 
+Fernando Gagno Júnior, Iasmin Crespo Correa (2023)\\
+[Atividades investigativas para compreesão do conceito de função afim no nono ano](https://ime.events/cinped/pdf/13445)\\
+_Revista Multidisciplinar de Educação e Meio Ambiente_
+
 Maria Isabel Pedrosa Custódio, Fernando da Silva Almeida, Roseana Martins Ribeiro, Ricardo César Rodrigues, JULIANA OLIVEIRA BATISTA (2022) \\ [ESTUDO QUALITATIVO DA VENTILAÇÃO NATURAL EM AMBIENTES INTERNOS: UMA ANÁLISE COMPARATIVA DO APLICATIVO DE SMARTPHONE WINDTUNNEL CFD E CFD (ANSYS)](https://www.even3.com.br/anais/encac2021/337164-estudo-qualitativo-da-ventilacao-natural-em-ambientes-internos--uma-analise-comparativa-do-aplicativo-de-smartpho/)\\
 _Anais do XVI Encontro Nacional de Conforto no Ambiente Construído/ XII Encontro Latino-Americano de Conforto no Ambiente Construído_
 
