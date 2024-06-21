@@ -11,7 +11,7 @@
     Sou professor de Física do Ensino Médio na rede públca estadual do Ceará. Sou mestre em Ensino de Física e atualmente estudo formas de inserir a inteligência artificial (IA) e linguagens de programação como Julia, Python e R em sala de aula.
     </p>
     <p>
-     Aprendendo sempre. 
+     [Currículo Lattes](https://lattes.cnpq.br/0907363871243704) 
     </p>
     <div style="clear: both"></div>      
   </div>
