@@ -27,6 +27,7 @@ Cidade/UF: Fortaleza/CE \\
 CEP: 60525-571 \\
 Telefone: +55 85 3290-0315\\
 [Currículo Lattes](https://lattes.cnpq.br/0907363871243704)
+[Orcid iD](https://orcid.org/0000-0002-5368-6814)
 
 ## Contato
 
