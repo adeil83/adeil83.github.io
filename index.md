@@ -18,7 +18,7 @@
 </div>
 ~~~
 
-**Novo!** [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica/) |[R em sala de aula](https://remsaladeaula.github.io/site_pessoal/) \\
+**Novo!** [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica-2/) |[R em sala de aula](https://remsaladeaula.github.io/site_pessoal/) \\
 
 **Formace - Centro de formação e desenvolvimento para profissionais da educação** \\
 Rua: Porto Velho, 401 \\
