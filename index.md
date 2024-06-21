@@ -11,7 +11,7 @@
     Sou professor de Física do Ensino Médio na rede públca estadual do Ceará. Sou mestre em Ensino de Física e atualmente estudo formas de inserir a inteligência artificial (IA) e linguagens de programação como Julia, Python e R em sala de aula.
     </p>
     <p>
-     [Currículo Lattes](https://lattes.cnpq.br/0907363871243704) 
+     Aprendendo sempre. 
     </p>
     <div style="clear: both"></div>      
   </div>
@@ -26,6 +26,7 @@ Bairro: João XXIII\\
 Cidade/UF: Fortaleza/CE \\
 CEP: 60525-571 \\
 Telefone: +55 85 3290-0315\\
+[Currículo Lattes](https://lattes.cnpq.br/0907363871243704)
 
 ## Contato
 
