@@ -11,7 +11,7 @@
 
 ## Livros
 
-Adeil Araújo e Meirivâni Oliveira, [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica/), LF Editorial, junho de 2024. 110p.
+Adeil Araújo e Meirivâni Oliveira, [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica-2/), LF Editorial, junho de 2024. 110p.
 
 Adeil Araújo e Meirivâni Oliveira, [Julia com Física: Uma introdução](https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2023/09/Ebook-02-Julia-com-Fisica.pdf), Seduc - CE, Setembro de 2023. 114p.
 
