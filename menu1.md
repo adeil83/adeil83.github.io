@@ -17,6 +17,10 @@ Adeil Araújo e Meirivâni Oliveira, [Julia com Física: Uma introdução](https
 
 ARAÚJO, F. A. G.; PINHEIRO, A. G. ; CUNHA, M. S. . [Física em Movimento: Atividades com Smartphones e Tablets](https://www.researchgate.net/publication/325370876_Fisica_em_Movimento_Atividades_com_Smartphones_e_Tablets). 1. ed. Quixadá: PRODUTO EDUCACIONAL - MNPEF, 2017. 57p. 
 
+## Disciplinas criadas 
+
+Adeil Araújo e Meirivâni Oliveira, [Julia com Física: Uma introdução](https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2023/09/Ebook-02-Julia-com-Fisica.pdf). Código: CNT095. Duração: 40 h/a. Página 262 do [catálogo 2024 de Unidades Curriculares Eletivas](https://drive.google.com/file/d/1AeX0MWeJbbb0ETQcPvuYzQ_Vv35VPO9g/view?usp=drivesdk), SEDUC- CE. 
+
 ## Capítulos de Livros
 
 ARAÚJO, F. A. G.; Silva, M.S. ; OLIVEIRA, M. M. ; MUNIZ, C. R. . [O USO DO ACELERÔMETRO DE SMARTPHONES PARA INICIAR O ESTUDO SOBRE A CURVATURA DO ESPAÇO-TEMPO NO ENSINO MÉDIO](https://drive.google.com/file/d/11mVL6mMc6Lt4f5mIxMx2ojBqvosak8kb/view?usp=sharing). In: Célio Rodrigues Muniz, Eloisa Maia VIdal, Marcony Silva Cunha. (Org.). I INTERPOLOS DO MNPEF NO CEARÁ: Criando Estratégias para o ensino de Física. 1ed.Fortaleza: Ed UECE, 2017, v. , p. 143-155.
