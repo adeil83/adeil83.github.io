@@ -54,6 +54,10 @@ Meirivâni Meneses de Oliveira (2019)\\
 [SMARTMÁTICA: A matemática do dia a dia através da videoanálise](http://www.repositorio.ufc.br/handle/riufc/49494)\\
 _Produto educacional relacionado à sua dissertação de mestrado - ENCIMA-UFC_
 
+Lorenzo Ramírez (2018)\\
+[Experimentació amb tecnologia mòbil. Estudi de moviments en vídeo](https://experimentaciolliure.com/2018/03/03/experimentacio-amb-tecnologia-mobil-estudi-de-moviments-en-video/)\\
+_Experimentació lliure: Un bloc de recursos per a les Ciències Experimentals_
+
 Jiří Pospíšil, Helena Pospíšilová, Ludmila Trochtová (2018)\\
 [Katalog volnočasových aktivit
 verze 4.0.0: Nástroj pro výzkum volného času](https://www.researchgate.net/profile/Jiri_Pospisil4/publication/332845796_Katalog_volnocasovych_aktivit_verze_400/links/5e9f8c1f4585150839f3fd3a/Katalog-volnocasovych-aktivit-verze-400.pdf) \\
