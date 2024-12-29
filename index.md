@@ -8,7 +8,7 @@
   <div class="container">
     <img class="left" src="/assets/adeil.jpg" style="width:100%;max-width:150px">
     <p>
-    Professor de Física do Ensino Médio da rede públca estadual do Ceará, mestre em Ensino de Física e atualmente estuda formas de inserir a inteligência artificial (IA) e linguagens de programação como Julia, Python e R em sala de aula.
+    Professor de Física do Ensino Médio na rede pública estadual do Ceará, doutorando pelo Programa de Pós-Graduação em Ensino (Renoen/IFCE), mestre em Ensino de Física (MNPEF/UECE) e especialista em Ensino de Física pela UFC. Dedica-se atualmente a investigar e implementar o uso de inteligência artificial (IA) e linguagens de programação, como Julia, Python e R, no contexto educacional, buscando integrar essas tecnologias às práticas de ensino em sala de aula.
     </p>
     <p>
      Aprendendo sempre. 
