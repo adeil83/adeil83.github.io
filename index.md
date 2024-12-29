@@ -8,7 +8,7 @@
   <div class="container">
     <img class="left" src="/assets/adeil.jpg" style="width:100%;max-width:150px">
     <p>
-    Professor de Física do Ensino Médio na rede pública estadual do Ceará, doutorando em Ensino de Física (Renoen/IFCE), mestre em Ensino de Física (MNPEF/UECE) e especialista em Ensino de Física (UFC). Atualmente investiga o uso de inteligência artificial (IA) e modelagem computacional no contexto educacional, buscando integrar essas tecnologias às práticas de ensino em sala de aula.
+    Professor de Física do Ensino Médio na rede pública estadual do Ceará, especialista (UFC), mestre (MNPEF/UECE) e doutorando (Renoen/IFCE) em Ensino de Física. Atualmente investiga o uso de inteligência artificial (IA) e modelagem computacional no contexto educacional, buscando integrar essas tecnologias às práticas de ensino em sala de aula.
     </p>
     <p>
      Aprendendo sempre. 
