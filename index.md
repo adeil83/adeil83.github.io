@@ -8,7 +8,7 @@
   <div class="container">
     <img class="left" src="/assets/adeil.jpg" style="width:100%;max-width:150px">
     <p>
-    Professor de Física do Ensino Médio na rede pública estadual do Ceará,doutorando em Ensino de Física (Renoen/IFCE), mestre em Ensino de Física (MNPEF/UECE) e especialista em Ensino de Física (UFC). Dedica-se atualmente a investigar e implementar o uso de inteligência artificial (IA) e linguagens de programação, como Julia, Python e R, no contexto educacional, buscando integrar essas tecnologias às práticas de ensino em sala de aula.
+    Professor de Física do Ensino Médio na rede pública estadual do Ceará, doutorando em Ensino de Física (Renoen/IFCE), mestre em Ensino de Física (MNPEF/UECE) e especialista em Ensino de Física (UFC). Atualmente investiga o uso de inteligência artificial (IA) e modelagem computacional no contexto educacional, buscando integrar essas tecnologias às práticas de ensino em sala de aula.
     </p>
     <p>
      Aprendendo sempre. 
@@ -18,7 +18,7 @@
 </div>
 ~~~
 
-**Autor dos livros** [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica-2/) |[Julia com Física: Uma Introdução](https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2023/09/Ebook-02-Julia-com-Fisica.pdf) \\
+**Autor dos livros** [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica-2/) | [Julia com Física: Uma Introdução](https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2023/09/Ebook-02-Julia-com-Fisica.pdf) \\
 
 **FormaCE - Centro de formação e desenvolvimento para profissionais da educação** \\
 Rua: Porto Velho, 401 \\
