@@ -54,5 +54,9 @@ Adeil Araújo, [Física com smartphones e tablets](https://www.youtube.com/playl
 
 Adeil Araújo, [Adeil Araújo](https://www.youtube.com/@AdeilAraujo).
 
+## Laboratório MAIA: Experimentos de Funções
+
+Adeil Araújo, [Adeil Araújo](https://adeil83.github.io/ModelAI/lab_function.html).
+
 
 
