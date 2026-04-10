@@ -56,7 +56,7 @@ Adeil Araújo, [Adeil Araújo](https://www.youtube.com/@AdeilAraujo).
 
 ## Laboratório MAIA
 
-Adeil Araújo, [Laboratório MAIA:Experimentos de Funções](https://adeil83.github.io/ModelAI/lab_function.html).
+Adeil Araújo, [Laboratório MAIA: Experimentos de Funções](https://adeil83.github.io/ModelAI/lab_function.html).
 
 
 
