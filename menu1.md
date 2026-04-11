@@ -54,7 +54,7 @@ Adeil Araújo, [Física com smartphones e tablets](https://www.youtube.com/playl
 
 Adeil Araújo, [Adeil Araújo](https://www.youtube.com/@AdeilAraujo).
 
-## Laboratório MAIA
+## Laboratório Virtual MAIA
 
 #### Ferramentas para Modelagem da Queda Livre
 
