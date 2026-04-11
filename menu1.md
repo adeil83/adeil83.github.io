@@ -56,7 +56,7 @@ Adeil Araújo, [Adeil Araújo](https://www.youtube.com/@AdeilAraujo).
 
 ## Laboratório MAIA
 
-### Ferramentas para Modelagem da Queda Livre
+#### Ferramentas para Modelagem da Queda Livre
 
 Adeil Araújo e Meirivâni Oliveira, [O papel dos parâmetros no gráfico](https://adeil83.github.io/ModelAI/lab_function.html).
 
