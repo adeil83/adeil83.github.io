@@ -62,4 +62,6 @@ Adeil Araújo e Meirivâni Oliveira, [O papel dos parâmetros no gráfico](https
 
 Adeil Araújo e Meirivâni Oliveira, [Ajuste de Curva](https://adeil83.github.io/ModelAI/free_fall3.html).
 
+Adeil Araújo e Meirivâni Oliveira, [Derivada](https://adeil83.github.io/ModelAI/drivada5.html).
+
 
