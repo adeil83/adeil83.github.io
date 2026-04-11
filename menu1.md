@@ -56,8 +56,8 @@ Adeil Araújo, [Adeil Araújo](https://www.youtube.com/@AdeilAraujo).
 
 ## Laboratório MAIA
 
-Adeil Araújo e Meirivâni Oliveira, [Laboratório MAIA: Experimentos de Funções](https://adeil83.github.io/ModelAI/lab_function.html).
+Adeil Araújo e Meirivâni Oliveira, [O papel dos parâmetros no gráfico](https://adeil83.github.io/ModelAI/lab_function.html).
 
-Adeil Araújo e Meirivâni Oliveira, [Laboratório MAIA: Ajuste de Curva](https://adeil83.github.io/ModelAI/free_fall3.html).
+Adeil Araújo e Meirivâni Oliveira, [Ajuste de Curva](https://adeil83.github.io/ModelAI/free_fall3.html).
 
 
