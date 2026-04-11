@@ -5,7 +5,7 @@
 
 @def tags = ["syntax", "code"]
 
-# Publicações
+# Recursos e Publicações
 
 \toc
 
