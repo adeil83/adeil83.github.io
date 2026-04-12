@@ -58,10 +58,10 @@ Adeil Araújo, [Adeil Araújo](https://www.youtube.com/@AdeilAraujo).
 
 #### Ferramentas para Modelagem da Queda Livre
 
-Adeil Araújo e Meirivâni Oliveira, [O papel dos parâmetros no gráfico](https://adeil83.github.io/ModelAI/lab_function.html).
+Adeil Araújo e Mairton Cavalcante, [O papel dos parâmetros no gráfico](https://adeil83.github.io/ModelAI/lab_function.html).
 
-Adeil Araújo e Meirivâni Oliveira, [Ajuste de Curva](https://adeil83.github.io/ModelAI/free_fall3.html).
+Adeil Araújo e Mairton Cavalcante, [Ajuste de Curva](https://adeil83.github.io/ModelAI/free_fall3.html).
 
-Adeil Araújo e Meirivâni Oliveira, [Derivada](https://adeil83.github.io/ModelAI/drivada5.html).
+Adeil Araújo e Mairton Cavalcante, [Derivada](https://adeil83.github.io/ModelAI/drivada5.html).
 
 
