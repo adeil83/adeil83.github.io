@@ -64,4 +64,6 @@ Adeil Araújo e Mairton Cavalcante, [Ajuste de Curva](https://adeil83.github.io/
 
 Adeil Araújo e Mairton Cavalcante, [Derivada](https://adeil83.github.io/ModelAI/drivada5.html).
 
+Adeil Araújo e Mairton Cavalcante, [Derivada e Integral em Queda Livre](https://adeil83.github.io/ModelAI/integral_derivada_queda_livre.html).
+
 
