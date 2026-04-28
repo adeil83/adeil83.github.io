@@ -62,6 +62,8 @@ Adeil Araújo e Mairton Cavalcante, [O papel dos parâmetros no gráfico](https:
 
 Adeil Araújo e Mairton Cavalcante, [Ajuste de Curva](https://adeil83.github.io/ModelAI/free_fall3.html).
 
+Adeil Araújo e Mairton Cavalcante, [Modelagem da Função Exponencial](https://adeil83.github.io/ModelAI/exponencial20.html)
+
 Adeil Araújo e Mairton Cavalcante, [Envelope Exponencial e Energia](https://adeil83.github.io/ModelAI/energia2.html)
 
 Adeil Araújo e Mairton Cavalcante, [Derivada](https://adeil83.github.io/ModelAI/drivada5.html).
