@@ -17,7 +17,7 @@ Adeil Araújo e Meirivâni Oliveira, [Julia com Física: Uma introdução](https
 
 - O livro está listado na página oficial de livros recomendados da linguagem Julia: [Julia Language Books](https://julialang.org/learning/books/)
 
-- O projeto também foi divulgado pela JuliaHub: [Instron Uses JuliaSim to Conduct Auto Crash Simulation and Modeling 500x Faster](https://juliahub.com/blog/instron-uses-juliasim-to-conduct-auto-crash-simulation-and-modeling-500x-faster)
+- O livro também foi divulgado pela JuliaHub: [Instron Uses JuliaSim to Conduct Auto Crash Simulation and Modeling 500x Faster](https://juliahub.com/blog/instron-uses-juliasim-to-conduct-auto-crash-simulation-and-modeling-500x-faster)
 
 ARAÚJO, F. A. G.; PINHEIRO, A. G. ; CUNHA, M. S. . [Física em Movimento: Atividades com Smartphones e Tablets](https://www.researchgate.net/publication/325370876_Fisica_em_Movimento_Atividades_com_Smartphones_e_Tablets). 1. ed. Quixadá: PRODUTO EDUCACIONAL - MNPEF, 2017. 57p. 
 
