@@ -70,4 +70,4 @@ _Seminário no qual estudantes da Universidade de Konstanz lidam com as oportuni
 
 Projeto CERN
  
-[Rotina de estudos](https://adeil83.github.io/projeto_poliglota/rotina-definitiva.html) - [Me tornando poliglota](https://adeil83.github.io/projeto_poliglota/plano-55-dias-v2.html) - [Justificativa do sonho](https://adeil83.github.io/projeto_poliglota/blob/main/cern-formulario.html).
+[Rotina de estudos](https://adeil83.github.io/projeto_poliglota/rotina-definitiva.html) - [Me tornando poliglota](https://adeil83.github.io/projeto_poliglota/plano-55-dias-v2.html) - [Justificativa do sonho](https://adeil83.github.io/projeto_poliglota/cern-formulario.html).
