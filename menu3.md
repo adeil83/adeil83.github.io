@@ -68,7 +68,7 @@ _Livro_
 _Seminário no qual estudantes da Universidade de Konstanz lidam com as oportunidades e riscos das formas digitais de aprendizagem e os discutem de forma crítica e aberta -  Universität Konstanz (Alemanha)_.\\
  _Incluiram um vídeo meu na categoria Ferramentas (Kategorie: Tools), porém não citaram a minha autoria.Busque na página por "Video: https://www.youtube.com/watch?v=CaLR4bUL9LM". P.S: Tudo bem! Feliz do mesmo jeito._
 
- Teste - Projeto Poliglota\\
+ Teste - Projeto Poliglota
  
 [Rotina](https://adeil83.github.io/projeto_poliglota/plano-55-dias-v2.html))\\
 
