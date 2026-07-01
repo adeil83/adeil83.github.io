@@ -70,4 +70,4 @@ _Seminário no qual estudantes da Universidade de Konstanz lidam com as oportuni
 
  Teste - Projeto Poliglota\\
 [Rotina](https://adeil83.github.io/projeto_poliglota/plano-55-dias-v2.html))\\
-[Assimil](https://github.com/adeil83/projeto_poliglota/blob/main/rotina-definitiva.html)
+[Assimil](https://adeil83.github.io/projeto_poliglota/rotina-definitiva.html)
