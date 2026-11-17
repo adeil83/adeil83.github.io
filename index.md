@@ -18,7 +18,7 @@
 </div>
 ~~~
 
-**Autor dos livros** [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica-2/) | [Julia com Física: Uma Introdução](https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2023/09/Ebook-02-Julia-com-Fisica.pdf) \\
+**Autor dos livros** [Modelagem Computacional com Web VPython: Mecânica](https://lfeditorial.com.br/produto/modelagem-computacional-com-web-vpython-mecanica-2/) | [Julia com Física: Uma Introdução](https://dspace.seduc.ce.gov.br/server/api/core/bitstreams/c73f2fed-787f-43d8-a35b-0d37a5550fe4/content) \\
 
 **FormaCE - Centro de formação e desenvolvimento para profissionais da educação** \\
 Rua: Porto Velho, 401 \\
